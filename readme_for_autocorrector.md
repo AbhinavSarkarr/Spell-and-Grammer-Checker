@@ -48,5 +48,6 @@ This process allows the autocorrect model to intelligently suggest corrections b
 
 
 
-For creating the dictionary we have used the book: The Project Gutenberg EBook of Moby Dick; or The Whale, by Herman Melville
-Link: https://github.com/amankharwal/Website-data/blob/master/book.txt
+For creating the dictionary we have used the book: 
+1. The Project Gutenberg EBook of Moby Dick; or The Whale, by Herman Melville, Link: https://github.com/amankharwal/Website-data/blob/master/book.txt
+2. Alice_in_wonderland, Link: https://github.com/Wanghley/Word-Autocorrection-NLP/blob/main/alice_in_wonderland.txt
